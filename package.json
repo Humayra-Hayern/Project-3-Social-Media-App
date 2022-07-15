@@ -1,23 +1,34 @@
 {
-    "name": "merng",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "nodemon index"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "apollo-server": "^2.5.0",
-        "bcryptjs": "^2.4.3",
-        "graphql": "^14.3.1",
-        "inquirer": "^9.0.0",
-        "jsonwebtoken": "^8.5.1",
-        "mongoose": "^5.5.11"
-    },
-    "devDependencies": {
-        "nodemon": "^1.19.4"
-    }
+  "name": "merng",
+  "version": "1.0.0",
+  "description": "A social media app that allows users to create posts and interact with other users' posts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "concurrently": "^7.2.2",
+    "express": "^4.18.1",
+    "graphql": "^14.3.1",
+    "inquirer": "^9.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humayra-Hayern/Sociodora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Humayra-Hayern/Sociodora/issues"
+  },
+  "homepage": "https://github.com/Humayra-Hayern/Sociodora#readme"
 }
