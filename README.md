@@ -27,4 +27,5 @@ The image below displays the website's appearance and functionality.
 
 ## Credits
 University of Birmingham
+
 Kamran Naseem: https://github.com/Kamran-naseem97
